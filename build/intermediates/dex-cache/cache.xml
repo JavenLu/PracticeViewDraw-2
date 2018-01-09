@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/a5128514d42a909257dbfc18231a29c7f50b99bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_7b6282ef66c4006ae7d97b247de2679a124adbe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/Documents/android-sdk-macosx/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f9aca744062999c08a539cfb82fc09ff0eb88101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/effc0a4c85acc6cb8de1e2a6377f5da3f8001afd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_cb637e9c5fd91d5f32904c229184de40bade2aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/6ca1e5899694baee6710ba65571a29e3fb6e9456/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_ad3fa36985354e48a4792a6187f000c4b871e58d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_e7cc8f01e49589e386efd5ad4ef02f08e664415a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/5e19031e32749ee4d4ae2fabb6f062a2e698a1f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_1e3bfb0601a19a81ea74e33ee4ad5a5025a28052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/9630d4450668247b83381cc916ece0a411a4c6aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_b58a171a55b3ef70e57727042275df20329d3c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/6220974d01d93b5a6d6c9ce0a3b1d44645240df5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_69ddfdf7805808f38e8c8f958bae3e5630c349dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/b47267a3026826789935d8cc1c7a2a8a8f5649fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_a02c0a6c08b05ce8061f7b010c33c99050614e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/1624cc9721fe373969c5bc4edb6dcebd4db4da82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_382f5c46a247d096d7ae31e5b28363b99bd0cc53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/2efd5568bb35e9fb40d672c0c1a2bcb3b82ee1de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_1d6a7dcd74e434b96d220af3e286237cac30ec47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/e152ea8470044c64f0a1cbbef0d25608908d213c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_d68a1bf39a73dd4d7c958a9489754516d2040500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/ce030a97aa1ff3c16f54e463e8965883cb3acaa7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_6f69e4076ce904f3a40b3872b432bc3d97c4e60e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/e903a1ae3df4813c77d1c7aa75efe335f70df0c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_58be6cb190ac2f7c31e1c0de560e6e01f3b8c97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Javen/.android/build-cache/3c78824d66e80f524b8b1df6bf6b91e82bc18fe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Javen/PracticeDraw2/app/build/intermediates/pre-dexed/debug/classes_ff4b5304e31c5afedbd5b8db35947f444b471929.jar" />
+    </item>
+
+</items>
